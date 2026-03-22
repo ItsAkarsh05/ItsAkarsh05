@@ -2,7 +2,7 @@
 
 # Hey, I'm Akarsh 👋
 
-### Software Developer · GenAI Engineer · RAG · LLMs· App Dev
+### Software Developer · GenAI Engineer · RAG · LLMs · App Dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akarsh-solanky-6362b5290)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsAkarsh05)
@@ -13,8 +13,13 @@
 
 ---
 
-I'm a **B.Tech CSE (Cyber Security)** student at LNCT Bhopal, currently wrapping up an internship at **Heybobo.ai** where I've been building GenAI pipelines, LLM workflows, and cross-platform mobile apps. I love the intersection of **AI engineering** and **security research** — from RAG systems to network vulnerability scanners.
+I'm a **GenAI-focused Software Developer** building real-world AI systems that go beyond demos.
 
+I’ve developed **LLM-powered applications, RAG pipelines, and AI workflows**, with hands-on experience in designing scalable backends using FastAPI and crafting cross-platform apps with Flutter.
+
+My work spans from **AI Systems** to **real-time applications and security tools**, reflecting my interest in the intersection of **AI engineering and software development**.
+
+Currently focused on **agentic AI, system design, and production-ready AI architectures** — aiming to build systems that are not just intelligent, but **reliable, efficient, and impactful**.
 ---
 
 ## 🛠 Tech Stack
