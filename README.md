@@ -2,9 +2,9 @@
 
 # Hey, I'm Akarsh 👋
 
-### Software Developer · GenAI Engineer · Cyber Security Student
+### Software Developer · GenAI Engineer · RAG · LLMs· App Dev
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akarsh-solanky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akarsh-solanky-6362b5290)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsAkarsh05)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akarsh._.05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarshs.rr@gmail.com)
@@ -32,9 +32,28 @@ I'm a **B.Tech CSE (Cyber Security)** student at LNCT Bhopal, currently wrapping
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**GenAI & AI:** `LangChain` `LangGraph` `RAG` `Prompt Engineering` `Hugging Face` `ONNX` `Ollama` `LlamaIndex` `FAISS`
+## 🧠 GenAI & AI Stack
 
-**Architecture:** `MVVM` `BLoC` `LLM Orchestration` `API Integration`
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E57E0?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-critical?style=for-the-badge)
+
+
+## 🏗 Architecture & System Design
+
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-State_Management-02569B?style=for-the-badge)
+![LLM Orchestration](https://img.shields.io/badge/LLM-Orchestration-orange?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API-Integration-green?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Design-purple?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST-APIs-ff6c37?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System-Design-critical?style=for-the-badge)
 
 ---
 
