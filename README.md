@@ -129,16 +129,13 @@ Compact scanner running on **Kali Linux + Raspberry Pi Zero** for Wi-Fi vulnerab
 
 ---
 
-### ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+## 💭 Dev Thought of the Day
 
 <div align="center">
 
-*"Build things that matter. Break things to understand them."*
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=ItsAkarsh05&icon=0&color=0)](https://visitcount.itsvg.in)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+---
+
+
